@@ -1,0 +1,16 @@
+body{
+   
+    background: url("skill.jpg") no-repeat center center fixed; 
+   -webkit-background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   background-size: cover;
+ }
+ h1 {
+    color:pink;
+    text-align: center;
+}
+ul.a {
+    text-align: center;
+    color:pink;
+}
